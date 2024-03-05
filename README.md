@@ -70,3 +70,30 @@ To replicate:
 
 
     -
+
+My machine:
+
+
+    $ neofetch
+
+                .-/+oossssoo+/-.               ssoss@Skyes-Laptop
+            `:+ssssssssssssssssss+:`           ------------------
+          -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.4 LTS on Windows 10 x86_64
+        .ossssssssssssssssssdMMMNysssso.       Kernel: 5.15.146.1-microsoft-standard-WSL2
+       /ssssssssssshdmmNNmmyNMMMMhssssss/      Uptime: 3 days, 12 hours, 23 mins
+      +ssssssssshmydMMMMMMMNddddyssssssss+     Packages: 2638 (dpkg)
+     /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Shell: bash 5.1.16
+    .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Adwaita [GTK3]
+    +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Icons: Adwaita [GTK3]
+    ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: Windows Terminal
+    ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: 11th Gen Intel i5-1135G7 (8) @ 2.419GHz
+    +sssshhhyNMMNyssssssssssssyNMMMysssssss+   GPU: 76c6:00:00.0 Microsoft Corporation Device 008e
+    .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Memory: 553MiB / 7800MiB
+     /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+      +sssssssssdmydMMMMMMMMddddyssssssss+
+       /ssssssssssshdmNNNNmyNMMMMhssssss/
+        .ossssssssssssssssssdMMMNysssso.
+          -+sssssssssssssssssyyyssss+-
+            `:+ssssssssssssssssss+:`
+                .-/+oossssoo+/-.
+
